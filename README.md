@@ -12,7 +12,9 @@ Welcome to the **Tic-Tac-Toe** game built with Flutter! This simple yet fun game
 
 ## Installation
 
-To run this application, make sure you have Flutter installed on your machine. You can follow the instructions on the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+To run this application, make sure you have Flutter installed on your machine. 
+
+You can follow the instructions on the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
 1. Clone the repository:
    ```bash
